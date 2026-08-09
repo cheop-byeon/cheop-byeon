@@ -6,8 +6,10 @@ Over the past 6+ years, I've worked across NLP, machine learning, deep learning,
 
 I'm driven by closing that gap well — building systems that are practical, accessible, and genuinely useful, not just technically impressive.
 
-#### Links
+<div align="center">
 
-- Website: [University of Oslo profile](https://www.mn.uio.no/ifi/english/people/aca/jiebi/index.html)
-- Google Scholar: [WMmX_cEAAAAJ](https://scholar.google.com/citations?user=WMmX_cEAAAAJ&hl=en)
-- LinkedIn: [jie-jessica-bian](https://www.linkedin.com/in/jie-jessica-bian-60889351/)
+· F I N D  M E ·
+
+[Website](https://www.mn.uio.no/ifi/english/people/aca/jiebi/index.html) · [LinkedIn](https://www.linkedin.com/in/jie-jessica-bian-60889351/) · [Google Scholar](https://scholar.google.com/citations?user=WMmX_cEAAAAJ&hl=en)
+
+</div>
