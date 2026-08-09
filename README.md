@@ -1,4 +1,4 @@
-### Hi, I'm Jie 👋
+### Hi, I'm Jie (Jessica) 👋
 
 I am a PhD researcher in Generative AI, specializing in Large Language Models (LLMs), and an AI Engineer focused on turning research into practical products.
 
@@ -9,3 +9,5 @@ I'm driven by closing that gap well — building systems that are practical, acc
 #### Links
 
 - Website: [University of Oslo profile](https://www.mn.uio.no/ifi/english/people/aca/jiebi/index.html)
+- Google Scholar: [WMmX_cEAAAAJ](https://scholar.google.com/citations?user=WMmX_cEAAAAJ&hl=en)
+- LinkedIn: [jie-jessica-bian](https://www.linkedin.com/in/jie-jessica-bian-60889351/)
