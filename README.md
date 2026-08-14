@@ -10,6 +10,6 @@ I'm driven by closing that gap well — building systems that are practical, acc
 
 · F I N D  M E ·
 
-[Website](https://www.mn.uio.no/ifi/english/people/aca/jiebi/index.html) · [LinkedIn](https://www.linkedin.com/in/jie-jessica-bian-60889351/) · [Google Scholar](https://scholar.google.com/citations?user=WMmX_cEAAAAJ&hl=en)
+[Website](https://cheop-byeon.github.io/) · [LinkedIn](https://www.linkedin.com/in/jie-jessica-bian-60889351/) · [Google Scholar](https://scholar.google.com/citations?user=WMmX_cEAAAAJ&hl=en)
 
 </div>
